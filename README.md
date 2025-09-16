@@ -1,2 +1,2 @@
 # Algorithm
-Python Algorithm
+Python / Java Algorithm
